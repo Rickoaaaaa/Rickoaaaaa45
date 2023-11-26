@@ -1,0 +1,26 @@
+{
+  "name": "Billy Johnston",
+  "age": 41,
+  "address": {
+    "street": "Ankes Road",
+    "city": "Dofciam",
+    "state": "ND",
+    "zip": "20759"
+  },
+  "contact": {
+    "phone": "(869) 711-3578",
+    "servicePhone": "800724377"
+  },
+  "birthday": "1972-10-18T22:06:46.401Z",
+  "ip": "176.220.161.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Pej pupaci difwe cur jijejzo ketnid metfeb obo nu rubiguod perronhuw viikbuc otawob gorasci hahitrun gud. Jod jiale ge galihaore ja cedime so uduhuvjo bitom owehced ivti jabni jehop. Miirjub jo geri ebcivu bo izbo gu cefidjeb zofivla lap kefkaeho od pabof fol ewelow winpo.",
+    "bio": "Ewacuban ninokeh fid duz astozwuz beb wafahhu wuesu mo mupgadjuh voacfi maziv huvef nukebe. Tad teajofo daknaha ukovit fenoham tancaja ziicusaf goktecec ducga namatu vevac sohefele aw eko. Jeha bib deakuke gofe jo urgi eje posnud ezize pig fah cepoz tu lah. Kumsop jib ji vokwedbi luwe wace irjazvap hor carwecek nudefve imruzi metet tuh uksecpat cu."
+  },
+  "apiKey": "81abf255cfc5d69c7ccc02e8a10723c75ad0e9a5c7471d2493a5faed08347553",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
