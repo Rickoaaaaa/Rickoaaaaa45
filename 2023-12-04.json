@@ -1,0 +1,26 @@
+{
+  "name": "Mildred Ward",
+  "age": 65,
+  "address": {
+    "street": "Dafu Street",
+    "city": "Setsiwok",
+    "state": "DC",
+    "zip": "70837"
+  },
+  "contact": {
+    "phone": "(815) 867-6672",
+    "servicePhone": "800394728"
+  },
+  "birthday": "1977-04-20T22:47:16.988Z",
+  "ip": "92.36.162.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Le oseloubu goufi numic kin nihutuz bahok apic iviatatac ru zis rifa tukor. Muwmola ve ko bol liragiz isled cougi hoerurud nawlal fezofig sopofge rocedi ircikud uvfawow on geb. Nir ne ta nip ku hupu at ge tastiuc le fu ci vuw jo cehujlik jobpegof.",
+    "bio": "Pitufu dozihes cab juv nafuen uvovosuh ha sav gilo luwa sipejub lu vodamaz avococ rebopu ba zasdeh. Elsu nah hinvula vogosvu rocvawdo ajmev za zide sicko surziso ojnut tuhcebzo cuhpic cispir. Fojijsa tumzanhu bor butnizow vos oguoprom aduune buz penece bebvihow baviblo arjofzod."
+  },
+  "apiKey": "58718d53db80a00993a3c77b5f8be4edcdee67a2456489463ff00d557d776026",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
