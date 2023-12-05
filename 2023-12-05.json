@@ -1,0 +1,26 @@
+{
+  "name": "Emily Vega",
+  "age": 34,
+  "address": {
+    "street": "Imigo Highway",
+    "city": "Apowoko",
+    "state": "MO",
+    "zip": "82846"
+  },
+  "contact": {
+    "phone": "(268) 301-1518",
+    "servicePhone": "800261521"
+  },
+  "birthday": "2000-10-11T19:20:33.640Z",
+  "ip": "113.106.3.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Taciw al sumagsi peposuv culiz iba oblemde wehnat enamaz efo jiubawus udiluhtoh bu hewapco mulfucu. Opo mitaswew catenu vudambu febokdun ver hocvefgij vu ricpozow uccimzi kubo hab ce ki. Dal no wihmuniv ziz kotuplat nuke toccub gufa ul ta iwo dovul.",
+    "bio": "Jekgag etosos napluk najurpiw zu fobba odisuti mipgeglin liril pav zefi buflacca at fakib. Bufnemo nile ecu su pafle ku so talafu gakuh bufnucon gokok ro abo mizjufsum cozovnaw darori toziw ubjosa. Vi ven afkasco cuhawowa dihzaod vuvehjun kowcag kaune wu zegol ma ta ane etoru vi tikbujovu cutlahpoj. Sa puzwi kosbattid sule haha suug viniri gusabsak gajala mavpise toemi jozreaw uhkuug te oge va ke zog. Juv as vituvu likjelaf gelodi pa hile ed pujava iwfil riopofer do gilpujhir nu tow bod jevok. Fu sutaz boctidubo devluphaj toujuip weevief sendignut ko tulalli naharduv weur repij onilu vefud sewaf wi jupuw."
+  },
+  "apiKey": "808214af061742f6ff57aa4b15f4ee272e051932d54a19d9a331e8ff6f349405",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
