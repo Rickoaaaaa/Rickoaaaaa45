@@ -1,0 +1,26 @@
+{
+  "name": "May Wise",
+  "age": 21,
+  "address": {
+    "street": "Josgi Center",
+    "city": "Leosapuv",
+    "state": "UT",
+    "zip": "51458"
+  },
+  "contact": {
+    "phone": "(784) 928-6320",
+    "servicePhone": "800466928"
+  },
+  "birthday": "1992-10-15T16:18:20.689Z",
+  "ip": "97.144.12.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Palir su paeju ul anwun tic na falo kej kup uw hodoh ceklo hiham rubuwhi nased vimo. Sohlos ebobikima fon fi avagugap nilesaj if cagali tica musukil bebojub fa. Op ocoparu seni ujisotip oba giifo jaw bufabsu sariw dekugiz gemlut usavikheg luekuto isva iwtofpa poszesa.",
+    "bio": "Pa gijakde higcavtap diporzek ilkonbig leban ofe ota kafufbiz taz wow buca uboro. Lomef golozined bi gotgovtaf narlic eguju joz memli kabni bimot bocah piretun mufe biviv. Zuhgin lewnib awnecva jal cud kakicov ceiwagif liwizfe vat supilik wepuh wulse majnozac lukfas lis azmuf jigektag jogetel. Zofe naz bap suj mosusgej had ew zi bawor igu lakwig suusegi jaoli to rajtume giddapu ubumi."
+  },
+  "apiKey": "b72ab8ea394c4d2cfb0bacaea24843708a45aec5abdf9e57ded763aaabb30db8",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
