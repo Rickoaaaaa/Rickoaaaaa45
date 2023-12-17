@@ -1,0 +1,26 @@
+{
+  "name": "Chris Lawrence",
+  "age": 52,
+  "address": {
+    "street": "Faahu Turnpike",
+    "city": "Hovfadmuj",
+    "state": "AL",
+    "zip": "56283"
+  },
+  "contact": {
+    "phone": "(677) 229-1583",
+    "servicePhone": "800513393"
+  },
+  "birthday": "1992-09-23T13:50:57.267Z",
+  "ip": "194.184.246.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Gunat kij oracuzjin wekam azurufi iku ki ruruuw oda heoso kenpuvvoz diolwu uji dibvo. Viminam wuvculwez kokajo led maumasov ecu je orahot kedzedruk jutun apolut zasepge faz garaf. Tuohvam sohmudcu cuuheto bik cisunwob rimi ojookebi suwab zemeapa po du zipgiabo wikuw macbadso figkafvoj diatsus.",
+    "bio": "Wuglodu gohal jamvufin moghu an owfa ocazeh iz idopugiso vasrasleg zug tegat keozuec mece. Zilka dig ifotefgug tekcis jeraju rarar tapwuhac de putba dep co afjep gesjus los. Gulvi lera lelo pa eg uvezid kud zu vurzi re awaise sud ohi manjirki."
+  },
+  "apiKey": "54efe92d3de5851462b262d3d54f815057032fa323d319de2e9261244e5334ba",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
