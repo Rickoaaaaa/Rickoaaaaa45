@@ -1,0 +1,26 @@
+{
+  "name": "Isabel Young",
+  "age": 23,
+  "address": {
+    "street": "Jimha Point",
+    "city": "Nuedaow",
+    "state": "NV",
+    "zip": "39284"
+  },
+  "contact": {
+    "phone": "(546) 286-5284",
+    "servicePhone": "800739578"
+  },
+  "birthday": "1960-03-26T16:51:56.054Z",
+  "ip": "62.11.48.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Atoven fezomo guzfi ceij nocak atu ho jeakju bi do cuwduuhe gip. Vit vaabsu ehtuife buloj cimgeja jakwo zu nuf ojizukef kidzepe joh vademhur ruhhujsog oroezovoj upeje mi luup ebeoji. Iduvo hawoma likiwoh fojuhmu pe opulet tezi bah low az wuwopliz puj diwmew mus celonoz. Wekogevi pevsogu fot ferohfah zi esi cande ulezuz jekhok kof ruksoz usibuno wekhu jeccavov wihalid uzudeeh gapi. Vazvisuhi fowe esimes vo eslas naha zevepel peipoik rutiv afme porzof ocudan are vumbiwcu sulciv.",
+    "bio": "Ceoseaho mis ujivohev fuvuloka iw pushircap kisidkat nez zanuk jefratul lapi lo ba ke buh burofo uhu ri. Faf ho fi ru eljokzi ukouriji saovo levaz ucuurko puak hesihaj lu forufol. Ede hik wod ta foiz fazozub kokrigta lego ro nibwe bezowih jagif wafuvura. De ufudisni do ihaltip miusugad zas zariwaf bihwisake kozelo nichu uvu lesun mu mik rut ja bowam baesaom."
+  },
+  "apiKey": "1d4b368a842a4610483de4722d0dd5b97026e6f254493ecaf9a5b0524d37361e",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
