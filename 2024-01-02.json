@@ -1,0 +1,26 @@
+{
+  "name": "Dale Grant",
+  "age": 21,
+  "address": {
+    "street": "Uztad Manor",
+    "city": "Rilronlov",
+    "state": "NY",
+    "zip": "15874"
+  },
+  "contact": {
+    "phone": "(482) 299-7137",
+    "servicePhone": "800327539"
+  },
+  "birthday": "1990-01-25T22:57:10.243Z",
+  "ip": "41.215.46.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Fawfape babav vud dabarwi wat pifpuh iz imvafmet ajfobfa eviugi la evokuzas hepif webo govfegwa ujawiho pujleril. Ku hobjerme dusfuc isiju wudzigfe giifke soj cofinu mokesihi ro narita he uwkidej codaupu kudu vo. Vin diah apgiba zonnobav zepevu edbaluj apoiszi ziviziva coctu ge kejinni jalvakwi orujiice mubdipjuf cip eb ezeikova nueh. Jereniig aga imome to zorujed ijacec cirbor kirmalmo vomogdoz iga kuktesic feozebi.",
+    "bio": "Ulcoz mevgadgo veho am wi owi cohjiwhaj gibwek on heonisi civge inavarnow lunugaw. Tomehesev man ahze ziadoper gad za tuzi re ofovawa begbedu umuip kozi nubhu divepu tesuj. Gijkugi nemiir caze itgecriw bos titfe reije sopauc nufwiij sopluh losaf atga dafiepe te fubih vueh."
+  },
+  "apiKey": "f089986a7e92e27a832952dbe2d7b4636583d1c3ecb68d18d4ba185d1ea915f6",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
