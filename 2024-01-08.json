@@ -1,0 +1,26 @@
+{
+  "name": "Danny Frazier",
+  "age": 30,
+  "address": {
+    "street": "Besit Pike",
+    "city": "Gakama",
+    "state": "MT",
+    "zip": "07891"
+  },
+  "contact": {
+    "phone": "(937) 975-9287",
+    "servicePhone": "800142449"
+  },
+  "birthday": "2000-10-10T14:18:17.625Z",
+  "ip": "122.115.156.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Le tigbi gihdu asdultog muro lam muvha dashodol vohi wonhivhud ej uj ja leducge nutpauvi. Geow ki fucram ha mu hoozojad corazju sesav maj vonidid li ojifibamu acnivek ta objuz sam gec unapuvok. Jaskovu nodsapeb maz wabuz bobkov igibezi vi jezvib ilozewow vu monhewu suapa lop geek annig wizezaw.",
+    "bio": "Led ev buehecad pa ba lubbejgoh besrin lag ziztunipu hi mehabo bencu welaw op. Ehari mejfise huket vifhisdu ki tewo od ujawal me wabiez sowa bopku ti jo ga ilihi. Epje ezihume puwjowsa osike asi nelihog za kig isogojuj vow lubfon ju buhdu pofwiv houzzo. Vugida lic laegun ugdon sezesafid umimiegu cohogjur gace carugi duleemo gu vanbe pejhigloj fidenjut po demif. Ru veot fapifogot sodulwa bevjoj fufov iwtod biilowa urugi zewi ibazuwni kaw zenmomur. Ni wu fetse ho maskobsiw jiz eju hesoh buj sohlozaw vihikno sasorij jobrenwed uh jaruc dajebwaf velo."
+  },
+  "apiKey": "7cfe17e557e59e428403b1558a57bcc4b2ea6ac889068c03283425bbe508379f",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
