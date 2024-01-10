@@ -1,0 +1,26 @@
+{
+  "name": "Lura Banks",
+  "age": 31,
+  "address": {
+    "street": "Lubep Place",
+    "city": "Ruzafka",
+    "state": "WY",
+    "zip": "86852"
+  },
+  "contact": {
+    "phone": "(405) 792-1277",
+    "servicePhone": "800413362"
+  },
+  "birthday": "1978-04-02T23:41:24.503Z",
+  "ip": "226.110.90.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Gobnevfa libwodeb una tised nebmek fok hufif ifgenoc jeahe hidfo sucu ef jow. Opci umicimiri pi peso cuezuziw hih sanpis nezuowa bafga abtubgur nes dakugzo hahwiput zatodu. Anvat le neov aca gimcunu tajup elecuj monif gaih ne iv kulror eku mezdu ojefogidu teh. Ijaab utri nipogo pipe zew je lavarzo susupja ev fompepa dakuzad waf dohabmiz vewfusa pukafzup.",
+    "bio": "Dahef uh sapurawe zopuv ulga seohja docec vo jimbimmap karuha tesemwi ripjun ojsip. Eflad he til eblahu cunde ka te irafol zu fowocjol jal femdi. Enoafaano cunge pikow ebe guimukeg hafutusem nufgap vahnec idcefdu pej cetuvi acaferi tovwajwi."
+  },
+  "apiKey": "ecb7374806de0c5b242231c6177ae0eb16b0a63daf5354551bc4896f71f6a1b8",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
