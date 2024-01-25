@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Schmidt",
+  "age": 25,
+  "address": {
+    "street": "Cojgo Glen",
+    "city": "Etobozuti",
+    "state": "AK",
+    "zip": "83870"
+  },
+  "contact": {
+    "phone": "(425) 799-2636",
+    "servicePhone": "800327868"
+  },
+  "birthday": "2005-06-13T01:14:52.129Z",
+  "ip": "173.174.91.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Feafifat mowap enecembaw ihces tegahke bu hewtuuve lela unipim bo vipmuvwak ri. Gozat ziksuk be ras vaezeluc zinowav mufu pu wihup fulvu odeses gegisosa. Vukseure je oze es wukkiwiga poenaci wiw wipola talgimbiv odavo emmi zugharov fossum tuakolu.",
+    "bio": "Otowec inu dukure ceacaumo de go bezbiju kik agahafo lilse uwtut dandecsis homevu wafpirfo muefakut. Wulratlal fif newni vaw tajmul edowip ujkin iferuj ta aw onoor cig baolifor lozeohi bunvipew de. Antinzuk ma podtu wul riabjak hopuhi vopbogho repgen hukguvdo uporen ucvomej duveihu calivi havcupipi kib. Jabanita urcas niwnus iznimuf imizu achocon va abde dipufu sosizru pamtegda mip lanek seje voh."
+  },
+  "apiKey": "8bd0afc9b5be51af2317956e8f2f477eeea8ae2020a66eca4b60d540cf66764b",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
