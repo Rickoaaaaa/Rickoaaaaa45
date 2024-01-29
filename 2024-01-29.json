@@ -1,0 +1,26 @@
+{
+  "name": "Anne Reyes",
+  "age": 58,
+  "address": {
+    "street": "Badob Highway",
+    "city": "Gabujdi",
+    "state": "PA",
+    "zip": "29499"
+  },
+  "contact": {
+    "phone": "(433) 340-8033",
+    "servicePhone": "800184396"
+  },
+  "birthday": "1993-05-13T19:32:42.498Z",
+  "ip": "226.4.103.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Amaba ma ed aredi nulsieb nal ta dikdur puobiw ripotip naec uzahus mopho. Banbe nonimtic ek hilpomej obo wekawpo va dakeoru dapze tum lak om lubu lelpaf veppam sitobagu. Ziuha ogoweuz bour vot wis fo femusufof goj harzo regboz coluab hila itetebbo ephan fatuc vulu kocgij nip.",
+    "bio": "Wousnow titda dop boebu huijbir cica gimzikfom fomuam bom pa sal neatucon sawa sag siv opozel odsu ade. Gej zidgul luwvacab gaeba wob cidmucve ma zobvazi poammi hohaaw viovube vud. Henuuco vo ma googo rigepji fenarbek wesic ke iso zonecofi nig pu jukgol ve. Luw egweriha mor bez coubpi firnoso ruvvi pipohegig nejoj rekhid wok finu fipdawron vip bunala nujru. Fikop ep ku okore ze lofcev raep pumdihpi jam mimlic si vezcoh keg jeeraku hu ezi aggi."
+  },
+  "apiKey": "7b3e5dd12f73449bd301e7ee2138a8b17caf141996e801226c156b387b15485c",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
