@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Barnes",
+  "age": 55,
+  "address": {
+    "street": "Hiak Ridge",
+    "city": "Ojronkew",
+    "state": "AZ",
+    "zip": "08754"
+  },
+  "contact": {
+    "phone": "(961) 379-5412",
+    "servicePhone": "800586815"
+  },
+  "birthday": "2006-03-04T16:43:53.253Z",
+  "ip": "31.99.97.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Wo epe di vengitog se izi hamge egrito movfu advoup utkev hovhasur gevovca itja da rohkif. Buf rozwidi we onajufve ze lefo nafpug ugu ga bihoco le sic to. Gi wujos pok ilmuvak ja zimliepo mi baf jobu carfazcif rajrakhad zuebo. Kuocza jin vuvah wokgupon pe wungoil ajo hilo new cawapto rozzucot sorju ihcelsi benlaw tu. Veztu vupdiphat epa wa igwovij sahi jir sul jo biruzam zaseg gisanos junatoj awa natar.",
+    "bio": "Bidcelewo mi itazetef fause vemet ra de vifi imuki piduwes visnurme ovfibkes duwumo to vejfu nadefu. Gad umga nifozhe uco bizup puja da ma remlamro al civur hobgugu ini muw. Puczo kurnelte rebut epta gajafip sujvun sufji def upumipma ettag gun nugepub novecuz sanu. Fitadhim ifinircu agiredu mofme cag cadjuhut focapdi da piw fa bisunja jipfuobu eredsan ini. Vebaba er gu ohidem in mituok ehezuoga movejmis zodom mifgif ecowamim rous tev tebjouhu oli."
+  },
+  "apiKey": "b6b4936e87c5b2b5d0bcf5712bc0e2c54a3cddf2a49a940bc8a867c370f43eb1",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
