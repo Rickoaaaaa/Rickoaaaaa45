@@ -1,0 +1,26 @@
+{
+  "name": "Cecelia Ray",
+  "age": 19,
+  "address": {
+    "street": "Iluma River",
+    "city": "Womivve",
+    "state": "NC",
+    "zip": "97134"
+  },
+  "contact": {
+    "phone": "(924) 350-4652",
+    "servicePhone": "800157256"
+  },
+  "birthday": "1992-07-13T12:55:12.997Z",
+  "ip": "202.240.15.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Joffovhih epuhaza mitobse ar buw gurigavo loz vapipewe deg ek ahisaame af. Jeawa vud hukta ujfenu simgag jerehok tuddojedo tafutjo kop feihu hos dih catidu zon icevutid tetle hiciso. Temkiwuv kel face daduimu agi mugja uvipukef mismobe et wu po luwlirci ufnawok toz ebvaz.",
+    "bio": "Hujwerle hofosov eji besued hu ikawa laccohte tuvrosa narbag utatotak mitur ladikmi um zegumrus nuwowod. Eksukega elalo oko cotip ovalek ozibokav kamid za paregdum savelo ucateh ofpioh ijzu. Uhpan nul raacu putapit lov wagreiw kiese ucrazom wuckij sucaldil aje couwu sekdoru zi ej."
+  },
+  "apiKey": "b3c098d78de53ae2a55de8947275b119348156117d88ea3ca71018e23f731da9",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
