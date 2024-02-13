@@ -1,0 +1,26 @@
+{
+  "name": "Hester Higgins",
+  "age": 23,
+  "address": {
+    "street": "Pehte Extension",
+    "city": "Coiheloz",
+    "state": "ND",
+    "zip": "80955"
+  },
+  "contact": {
+    "phone": "(234) 636-6227",
+    "servicePhone": "800332522"
+  },
+  "birthday": "1989-01-22T02:55:36.997Z",
+  "ip": "222.16.216.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Osuiju alilibo vun ti pighab ce gase va mabaho jafsi nicivuru ude pause azporif oli bar. Ot boil kowna jerul jem fot dapmun ini zu runsewes upuug kuof nockah lofuzha luda. Rebiowo herunlah gumgik kulejo di vegse piwej awewo wur nibog wosakih hemoevu.",
+    "bio": "Jonsep nitelen hu tij molevme owjofe ri ucnagef punucve logruvzi kazsut roku zoopit ti fettokpu difnoude kabtev soszu. Fapitoho hatif pe omabefrog zavbaas vevrakum ede jaisoh jola fuhuhef pavfo mimzuhbo. Oki voowu jat tacmesat ebubulguj ebces pu raodu hopme vazer mefu piv uchoer saumo so wali cewhes. Ra foclate zadnedi ivhu ce moj vi jiuhocem efmere jag suptuep soc. Bozeni avrah vokrodo alnolvav kuvunuham fesco dob hifbetug kuh deto ehihak tu galtajpa wetjita zijzu hod leroeja va. Jum madsiv za gowaglej koscuj dami avagoefo tuwossil usidimeh mej pasammeh tep wulor zakugtim acbezju eduwabug ti zogitlig."
+  },
+  "apiKey": "8a148db8f5ad19ab9ea9630e898910754a79d52bb19d6e4bb2b1ea14e3bf324e",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
