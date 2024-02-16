@@ -1,0 +1,26 @@
+{
+  "name": "Ida Nguyen",
+  "age": 44,
+  "address": {
+    "street": "Ukhod Extension",
+    "city": "Azleze",
+    "state": "NE",
+    "zip": "79352"
+  },
+  "contact": {
+    "phone": "(305) 944-4678",
+    "servicePhone": "800686691"
+  },
+  "birthday": "1972-02-01T10:02:12.465Z",
+  "ip": "48.113.71.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Luli sab iw fa weov fudat ipuefi vaker bo gafopeki wip hotveeno gofin mab ufacujfu uv kuzajup. Jo bube oko kog ulecwu kag atopep luvimit igojogde ku mat ral howuwo. Sacowu zigo cena sico dibguga hofuvez givfaup nelzora marok hu caj jiwuki wo. Ri apelirtet kebat hi ag kiwupja na cuopi ow ca zadacol leh new wahsijoh dutrohe.",
+    "bio": "Zonasi tuz orimlaw lukfagju susihi feca vek dehbahfi rubilan pesud fi wev ved jeuvu disrogem pi fis. Fohza powla devos jucoecu kigopkuh ro ihalu otzah da uvi zugsoc vef ki cimdis. Meb hun pa seigoki gaefala udego rutsun fidcag co pidez pelsep siwelisu dofo."
+  },
+  "apiKey": "a9cec2eddb416ec3b08e38a8c49e87df3458fc87fecde56db16547f6da956e4e",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
