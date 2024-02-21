@@ -1,0 +1,26 @@
+{
+  "name": "Alta Lowe",
+  "age": 38,
+  "address": {
+    "street": "Lafir Key",
+    "city": "Sotducca",
+    "state": "VA",
+    "zip": "64091"
+  },
+  "contact": {
+    "phone": "(646) 297-6534",
+    "servicePhone": "800184296"
+  },
+  "birthday": "1959-11-29T20:29:25.713Z",
+  "ip": "253.252.66.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Linanhu suz nobiesu ode kebmene rijub oruita lahusu wetvi wigtedloj vi pazde ase. Mu nulim vunju sehabu hik su ohdijok ta jawudsi mem got repu vetusge fekug wo wizadat jahulwo. Ihumighi oh cubto supa cacoc ta cilsojve bewo ahazupkew tidreuw liroz filpo upmohvo mov fobcovkak bet lunomik soc. Kififki me icfij lizjib ove mi jidapci raagju mod kov ho zez runuku leposacu tafticicu. Sugetoz aduwu agoemu cu oha kukponuv jubnagij guboroh ok kudcemu enokihiw ohawu bunnipdo wefwelli.",
+    "bio": "Biel kofe bamhoziw zeg kotbiken nenkoguf va egpotfa su selekpe vehjid jucomlo wo co ze ecumej wuwuw. Muzis ez firwas fu lop voj imu befla fegic ron helava cecka. Luga eraviulo derad odovam wandouw zepwiage fehub dup wojziome zipazji sapasele urdaplel pedaf pef. Zesge ga fi ul tusu musolu ihca edrav domta joc totijimu su ti zul sutikefe. Pevdoaw muhu reh bihhef cawpoho ah hovzorcoz mecezozi sijjemuk udvo piphejguz cub. Riwjeiz wohja imnik ijagow na pu regmihsav kir zol ti ut govdimko asu gusenun fozeunu filalap mel zalotgus. Ga ebawazug sigibicu tabkiz uv boija darbojget birod wu kubjehlu ifsiv ime kalewok lefuku beez ra."
+  },
+  "apiKey": "dd07f4e9a9687ab4599fd2ad3ba5165a054fc22171c6223acf773923c774a1fe",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
