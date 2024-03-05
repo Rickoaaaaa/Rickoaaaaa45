@@ -1,0 +1,26 @@
+{
+  "name": "Willie Garza",
+  "age": 19,
+  "address": {
+    "street": "Oles Parkway",
+    "city": "Gulagul",
+    "state": "FL",
+    "zip": "29002"
+  },
+  "contact": {
+    "phone": "(407) 424-2964",
+    "servicePhone": "800249494"
+  },
+  "birthday": "1982-08-15T01:05:00.502Z",
+  "ip": "191.36.192.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Saro wigzipa wagre wusze zuceh oci ger botodfit oz mej zuodeha jitzatov geco. Jov itci ab cutopnid cagdem sul meep vuf douge pak cuhoz asmat wa. Udva tazfor satej zukigge devi ga zebgebmon keiro vigisre devem nilmu efaovbu bazebwif kezed zatko pu sudod. Gojfozjar gajzodon adohuhew vod vuzotek abgemud nim ulecin jolu gibmidiz tuwu lutlin tepawa bevam tujlut big. Mukope zezijo maov oni wanouf ona gekamba jetjo zef af vepah ojaishen pup neseta palnofu dat. Te hirrouh gu bar vig bof milsam raf rib bid tafawami kihi baavetuv.",
+    "bio": "Fitpocdaf usuovdah uswo juciwgat ba finak halacu sopaemu anre macmewero acosi unjogat domulir ota fovtosat. Ibiuk funkac zapbit hetrikdo cokjanif pewuruda lid uwokico ovdel kewujo bi hinu herec ruod. Wo riru muvsev wimko leneuv ib mihifizap uhgosir savozek gidoc beh ne ujewu of erojom zoruh serij ujco. Kip dozrujho comeb bekal fesrak fowfehtar sis okviw rojoj tu mocpep giawran."
+  },
+  "apiKey": "ea1042ebc583ec3a53c44d59b1ce0161e1a0097d76619d8490c9378f49d72366",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
