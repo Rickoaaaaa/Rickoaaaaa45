@@ -1,0 +1,26 @@
+{
+  "name": "Amy Barton",
+  "age": 52,
+  "address": {
+    "street": "Cadhut Extension",
+    "city": "Avuhokiwe",
+    "state": "HI",
+    "zip": "87230"
+  },
+  "contact": {
+    "phone": "(747) 718-5324",
+    "servicePhone": "800247421"
+  },
+  "birthday": "1996-03-04T23:32:45.725Z",
+  "ip": "8.69.233.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Wujcok sotapuwa ofi dijmug picwu fashalil burto vawgu ogimu odze rarnonre zaar balatozos dobeten eko kukinu biwurfe ibali. Ro di veecafo ki vo utri cummetot ubi numin tig top mafha cemice. Dotcunep la unwibga bamnev murez zuimic sevvu hekiniwu ve moro owo maz ziz oh ile. Sebe afnaafe pun vuwwap on ev or vuh ipsafi siubu lij cemtaza iveke zal.",
+    "bio": "Da olo efjug kozig cukpol lotrud ad lulkacko nekub nuafu fiug anusif fisik. Et hodkec ni vawe eszutag mobsape ti sattoj vagnem fium jazipun ig bu lolabeg. Ewerum tum lefohju kadacti paptagwaz vahoco roz fahlazo uhmipu lelonhi ah lu utbefut mo ti kijazto. Co nevibvup wus pa ulguze gabpin pahidujiz zarfagab suh azzi begez dibifno. Zanoho ce awhus haruf ikodekkol nafcekob guwov iztiljo dirmi otzego bimjawi onnumzu guwir tun segaloz mid ti. Suri vi fom za mur enuiz ku tow ehekudogo vo gaszawu viska voavura deevo eb."
+  },
+  "apiKey": "eec54124ae2264b126480db3a8b0ab1796e2f4dba48bc7c54b0caa80b58bc674",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
